@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252065578098",
+    "firebase_url": "https://way2hostel-fcc9a.firebaseio.com",
+    "project_id": "way2hostel-fcc9a",
+    "storage_bucket": "way2hostel-fcc9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252065578098:android:a2ff76744c4d43e553d6eb",
+        "android_client_info": {
+          "package_name": "com.example.way2hostel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252065578098-t0khpr3vbfsjfp752dr7ih0dc9atcj3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.way2hostel",
+            "certificate_hash": "2bf0452c79df20cca12cdb860467efb8143c5899"
+          }
+        },
+        {
+          "client_id": "252065578098-bl8hkg47c7gf3d5rs0cp2gouspuan99h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAlHIgkF1NPD-5RfbnTTUc3-O0sLdBhgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252065578098-bl8hkg47c7gf3d5rs0cp2gouspuan99h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
